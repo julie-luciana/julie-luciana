@@ -1,8 +1,11 @@
 # Hi there 👋
-- 🌱 I’m currently learning Web Development in a Bootcamp
+- 💻 I’m currently learning Web Development in a Bootcamp
 - 🔭 I’m working in a Startup
 - 📍 I’m based in Karlsruhe
 - 🗺️ I love to travel & work as a **digital nomad**
+
+
+
 <!--
 **julie-luciana/julie-luciana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
