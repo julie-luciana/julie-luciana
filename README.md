@@ -8,7 +8,7 @@ My friends call me Julie and would say my strenghts are empathy, openness and cr
 
 My next dream destination is Australia. Do you think I will enjoy my work-life-balance here?
 
-![Beach in Australia]([https://images.app.goo.gl/56A61yhomfijrTyk6](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/27/77/5b/photo0jpg.jpg?w=500&h=500&s=1))
+![Beach in Australia](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/27/77/5b/photo0jpg.jpg?w=500&h=500&s=1)
 
 
 <!--
